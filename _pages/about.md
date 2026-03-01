@@ -17,20 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a CS Ph.D. student in the [NLP Lab](http://nlp.cs.ucsb.edu/) at UC Santa Barbara (UCSB), advised by [Prof. Shiyu Chang](https://code-terminator.github.io/). Previously, I earned my bachelor's degree from Nanjing University and my master's degree from Johns Hopkins University. Before starting my Ph.D., I spent several years as a full-time applied scientist at Amazon Alexa AI and Amazon AGI.
+👩‍💻 I am currently a Staff Applied Scientist at Walmart Labs, where I lead GenAI research and modeling for ads and retail content generation. Toward this goal, we leverage techniques such as Retrieval-Augmented Generation (RAG), supervised fine-tuning (SFT), reinforcement learning (RL) post-training, and scalable LLM agent system design. Prior to Walmart Labs, I was an Applied Scientist at Amazon, where I worked on generative AI research and feedback learning for query and document understanding. I am passionate about translating cutting-edge research in large-scale modeling into production-ready AI systems.
 
-My research focuses on natural language processing, information retrieval, and speech recognition.
+🎓 I received my Ph.D. in Computer Science from the University of Minnesota, Twin Cities, where I was advised by [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/) and worked closely with [Prof. Steven Wu](https://zstevenwu.com/). My doctoral research focused on optimization and privacy-preserving machine learning, developing training algorithms that improve neural network generalization while preserving data privacy. I received my B.Sc. in Electronic Information and Communications from Huazhong University of Science and Technology.
 
-I’m always open to collaboration opportunities. If you're interested, feel free to reach out to me via **ziyanjiang528@gmail.com**
-
-
+I’m always open to collaboration opportunities. If you're interested, feel free to reach out to me via **yzhou0877@gmail.com**.
 
 # 🔥 News
-- *2026.01*: I will be joining Salesforce Research as a research intern this coming summer.
-- *2026.01*: VLM2Vec-V2 has been accepted to TMLR.
-- *2025.04*: I’ve moved my personal homepage to this new site; the old one is now deprecated.
-
-
+- *2025.11*: Paper on **LLM Agents for E-Commerce Ad Generation** accepted to EMNLP 2025.
+- *2024.05*: Paper on **LLM-powered Recommendation Agents (RecMind)** accepted to NAACL 2024 Findings.
+- *2024.01*: Paper on **Theory of Generalization and Optimization** accepted to AISTATS 2024.
+- *2023.12*: Paper on **Conversational Query Rewrite with Feedback Learning** accepted to EMNLP 2023.
+- *2023.07*: Paper on **Unified Contextual Query Rewriting** accepted to ACL 2023.
 
 
 {% include_relative includes/pub.md %}
