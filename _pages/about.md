@@ -24,6 +24,7 @@ redirect_from:
 I’m always open to collaboration opportunities. If you're interested, feel free to reach out to me via **yzhou0877@gmail.com**.
 
 # 🔥 News
+- *2026.02*: I will co-organize the **Embodied AI Workshop (WDFM-EAI)[https://lnkd.in/gdipcH4V]** at CVPR 2026.
 - *2025.11*: Paper on **LLM Agents for E-Commerce Ad Generation** accepted to EMNLP 2025.
 - *2024.05*: Paper on **LLM-powered Recommendation Agents (RecMind)** accepted to NAACL 2024 Findings.
 - *2024.01*: Paper on **Theory of Generalization and Optimization** accepted to AISTATS 2024.
@@ -36,7 +37,6 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 
 
 <h1 id="educations">📖 Educations</h1>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ucsb_logo.png' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
