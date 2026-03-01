@@ -24,7 +24,7 @@ redirect_from:
 I’m always open to collaboration opportunities. If you're interested, feel free to reach out to me via **yzhou0877@gmail.com**.
 
 # 🔥 News
-- *2026.02*: I will co-organize the **Embodied AI Workshop (WDFM-EAI)[https://lnkd.in/gdipcH4V]** at CVPR 2026.
+- *2026.02*: Co-organizing the **Embodied AI Workshop ([WDFM-EAI](https://lnkd.in/gdipcH4V))** at CVPR 2026.
 - *2025.11*: Paper on **LLM Agents for E-Commerce Ad Generation** accepted to EMNLP 2025.
 - *2024.05*: Paper on **LLM-powered Recommendation Agents (RecMind)** accepted to NAACL 2024 Findings.
 - *2024.01*: Paper on **Theory of Generalization and Optimization** accepted to AISTATS 2024.
@@ -32,53 +32,22 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 - *2023.07*: Paper on **Unified Contextual Query Rewriting** accepted to ACL 2023.
 
 
-{% include_relative includes/pub.md %}
 
 
+<h1 id="services">🧐 Professional Services</h1>
 
-<h1 id="educations">📖 Educations</h1>
+<ul>
+  <li><strong>Reviewer</strong>
+    <ul>
+      <li><strong>NLP Conferences:</strong> ACL, EMNLP, NAACL, EACL</li>
+      <li><strong>Machine Learning Conferences:</strong> ICML, NeurIPS, ICLR, AISTATS</li>
+    </ul>
+  </li>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ucsb_logo.png' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2025.09 -*
-- University of California, Santa Barbara
-- Computer Science, Ph.D.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/jhu_logo.jpg' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2018.08 - 2020.05*
-- Johns Hopkins University 
-- Electrical and Computer Engineering, M.S.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/nju_logo.png' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2014.09 - 2018.07*
-- Nanjing University 
-- Acoustics & Physics, B.S.
-</div>
-</div>
-
-
-
-
-<h1 id="working-experiences">💻 Working Experiences</h1>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/amazon_logo.jpg' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2020.07 - 2024.08*
-- Amazon Alexa AI & AGI 
-- Applied Scientist I -> Applied Scientist II
-</div>
-</div>
-
-
-
-<h1 id="services">🧐 Services</h1>
-- Conference Reviewer: NeurIPS(2024-Present), ICLR(2024-Present), ACL ARR(2023-Present), ICASSP(2024-Present)
-- Journal Reviewer: IEEE Access, TOIS
-- Workshop Organizer: [The First Workshop on Personalized Generative AI (@CIKM2023)](https://sites.google.com/view/pgai2023/home), [The Second Workshop on Generative Information Retrieval (@SIGIR2024)](https://coda.io/@sigir/gen-ir-24)
+  <li><strong>Workshop Organizer:</strong> 
+    Embodied AI Workshop - 
+    <a href="https://lnkd.in/gdipcH4V" target="_blank">
+      WDFM-EAI
+    </a> @ CVPR 2026
+  </li>
+</ul>
