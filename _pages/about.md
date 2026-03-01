@@ -32,22 +32,16 @@ redirect_from:
 # 📚 Selected Publication
 <div class="pub-item">
   <img src="/images/cdfs.png" class="pub-img">
-
   <div class="pub-content">
-    <div class="venue-badge">EMNLP 2025</div>
-
     <div class="pub-title">
       Learning from LLM Agents: In-Context Generative Models for Text Casing in E-Commerce Ads
     </div>
-
     <div class="pub-authors">
       <strong>Yingxue Zhou</strong>, Tan Zhu, Tao Zeng, Zigeng Wang, Wei Shen
     </div>
-
     <div class="pub-venue">
-      Proceedings of EMNLP, 2025
+      EMNLP 2025 (Industry)
     </div>
-
     <div class="pub-links">
       <a href="#">PDF</a>
       <a href="#">Bib</a>
