@@ -28,8 +28,33 @@ redirect_from:
 - *2023.12*: Paper on **Conversational Query Rewrite with Feedback Learning** accepted to EMNLP 2023.
 - *2023.07*: Paper on **Unified Contextual Query Rewriting** accepted to ACL 2023.
 
+---
+# 📚 Selected Publication
+<div class="pub-item">
+  <img src="/images/cdfs.png" class="pub-img">
 
+  <div class="pub-content">
+    <div class="venue-badge">EMNLP 2025</div>
 
+    <div class="pub-title">
+      Learning from LLM Agents: In-Context Generative Models for Text Casing in E-Commerce Ads
+    </div>
+
+    <div class="pub-authors">
+      <strong>Yingxue Zhou</strong>, Tan Zhu, Tao Zeng, Zigeng Wang, Wei Shen
+    </div>
+
+    <div class="pub-venue">
+      Proceedings of EMNLP, 2025
+    </div>
+
+    <div class="pub-links">
+      <a href="#">PDF</a>
+      <a href="#">Bib</a>
+      <a href="#">Project</a>
+    </div>
+  </div>
+</div>
 
 <h1 id="services">🧐 Professional Services</h1>
 
