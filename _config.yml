@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yingxue Zhou"
-description              : "Applied Scientist in LLMs and Generative AI"
+description              : "Applied Scientist in LLMs/GenAI"
 repository               : "yzhou0877/yzhou0877.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yingxue Zhou"
   avatar           : "images/me.jpg"
-  bio              : "Applied Scientist in LLMs/GenAI"
+  bio              : 
   location         : "SF BayArea, US"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/yingxue-zhou-54104817b/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
