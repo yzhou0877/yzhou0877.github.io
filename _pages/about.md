@@ -55,6 +55,26 @@ redirect_from:
 </div>
 
 <div class="pub-item">
+  <img src="/images/recmind.png" class="pub-img">
+
+  <div class="pub-content">
+    <div class="pub-title">
+      RecMind: Large Language Model Powered Agent for Recommendation
+    </div>
+    <div class="pub-authors">
+      Yancheng Wang, Ziyan Jiang, Zheng Chen, Fan Yang, <strong>Yingxue Zhou</strong>, et al.
+    </div>
+    <div class="pub-venue">
+      NAACL 2024 Findings
+    </div>
+    <div class="pub-links">
+      <a href="https://aclanthology.org/2024.findings-naacl.271.pdf">PDF</a>
+    </div>
+  </div>
+</div>
+
+
+<div class="pub-item">
   <img src="/images/udecoder.png" class="pub-img">
 
   <div class="pub-content">
@@ -93,26 +113,6 @@ redirect_from:
 
     <div class="pub-links">
       <a href="https://aclanthology.org/2023.emnlp-industry.41.pdf">PDF</a>
-    </div>
-  </div>
-</div>
-
-
-<div class="pub-item">
-  <img src="/images/recmind.png" class="pub-img">
-
-  <div class="pub-content">
-    <div class="pub-title">
-      RecMind: Large Language Model Powered Agent for Recommendation
-    </div>
-    <div class="pub-authors">
-      Yancheng Wang, Ziyan Jiang, Zheng Chen, Fan Yang, <strong>Yingxue Zhou</strong>, et al.
-    </div>
-    <div class="pub-venue">
-      NAACL 2024 Findings
-    </div>
-    <div class="pub-links">
-      <a href="https://aclanthology.org/2024.findings-naacl.271.pdf">PDF</a>
     </div>
   </div>
 </div>
