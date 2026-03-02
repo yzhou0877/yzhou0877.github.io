@@ -31,7 +31,7 @@ redirect_from:
 ---
 # 📚 Selected Publication
 <div class="pub-item">
-  <img src="/images/coa" class="pub-img">
+  <img src="/images/coa.png" class="pub-img">
   <div class="pub-content">
     <div class="pub-title">
       Learning from LLM Agents: In-Context Generative Models for Text Casing in E-Commerce Ads
