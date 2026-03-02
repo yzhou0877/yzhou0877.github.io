@@ -119,7 +119,7 @@ redirect_from:
 
 
 <div class="pub-item">
-  <img src="/images/dpsgd.png" class="pub-img">
+  <img src="/images/dpsgd2.png" class="pub-img">
 
   <div class="pub-content">
     <div class="pub-title">
@@ -138,6 +138,28 @@ redirect_from:
       <a href="https://openreview.net/pdf?id=7dpmlkBuJFC">PDF</a>
       <a href="https://github.com/yzhou0877/private-sgd-with-subspace-identification">Code</a>
       <a href="#">Slides</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <img src="/images/sagd.png" class="pub-img">
+
+  <div class="pub-content">
+    <div class="pub-title">
+      Towards Better Generalization of Adaptive Gradient Descent
+    </div>
+
+    <div class="pub-authors">
+      <strong>Yingxue Zhou</strong>, Belhal Karimi, Zhiqiang Xu, Jinxing Yu, Ping Li
+    </div>
+
+    <div class="pub-venue">
+      NeurIPS 2020
+    </div>
+
+    <div class="pub-links">
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2020/file/08fb104b0f2f838f3ce2d2b3741a12c2-Paper.pdf">PDF</a>
     </div>
   </div>
 </div>
