@@ -45,7 +45,7 @@ redirect_from:
     <div class="pub-links">
       <a href="#">PDF</a>
       <a href="#">Bib</a>
-      <a href="#">Project</a>
+      <a href="#">Slides</a>
     </div>
   </div>
 </div>
