@@ -1,13 +1,13 @@
 .pub-item {
   display: flex;
-  gap: 35px;
-  margin: 45px 0;
+  gap: 30px;
+  margin: 30px 0;
   align-items: flex-start;
 }
 
 .pub-img {
-  width: 320px;
-  height: 280px; 
+  width: 300px;
+  height: 260px; 
   border-radius: 12px;
   box-shadow: 0 6px 16px rgba(0,0,0,0.15);
 }
@@ -17,20 +17,20 @@
 }
 
 .pub-title {
-  font-weight: 500;
-  font-size: 14px;
+  font-weight: 550;
+  font-size: 18px;
   margin: 6px 0;
 }
 
 .pub-authors {
   color: #555;
-  font-size: 10px;
+  font-size: 14px;
   margin-bottom: 6px;
 }
 
 .pub-venue {
   font-style: italic;
-  font-size: 18px;
+  font-size: 14px;
   margin-bottom: 14px;
   color: #666;
 }
