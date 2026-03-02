@@ -31,7 +31,7 @@ redirect_from:
 ---
 # 📚 Selected Publication
 <div class="pub-item">
-  <img src="/images/cdfs.png" class="pub-img">
+  <img src="/images/coa" class="pub-img">
   <div class="pub-content">
     <div class="pub-title">
       Learning from LLM Agents: In-Context Generative Models for Text Casing in E-Commerce Ads
@@ -43,14 +43,15 @@ redirect_from:
       EMNLP 2025 (Industry)
     </div>
     <div class="pub-links">
-      <a href="#">PDF</a>
+      <a href="https://aclanthology.org/2025.emnlp-industry.79.pdf">PDF</a>
       <a href="#">Bib</a>
       <a href="#">Slides</a>
     </div>
   </div>
 </div>
 
-<h1 id="services">🧐 Professional Services</h1>
+
+<h1 id="services"> 📋 Services</h1>
 
 <ul>
   <li><strong>Reviewer</strong>
