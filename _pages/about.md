@@ -29,9 +29,7 @@ redirect_from:
 - *2023.07*: Paper on **Unified Contextual Query Rewriting** accepted to ACL 2023.
 
 
-# 📚 Selected Publication
 # 📚 Selected Publications
-
 
 <div class="pub-item">
   <img src="/images/coa.png" class="pub-img">
