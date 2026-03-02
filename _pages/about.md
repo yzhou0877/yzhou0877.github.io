@@ -119,7 +119,7 @@ redirect_from:
 
 
 <div class="pub-item">
-  <img src="/images/dpsgd2.png" class="pub-img">
+  <img src="/images/dpsgd3.png" class="pub-img">
 
   <div class="pub-content">
     <div class="pub-title">
