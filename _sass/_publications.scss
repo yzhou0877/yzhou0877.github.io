@@ -7,7 +7,7 @@
 
 .pub-img {
   width: 300px;
-  height: 200px; 
+  height: auto; 
   border-radius: 12px;
   box-shadow: 0 6px 16px rgba(0,0,0,0.15);
 }
@@ -18,7 +18,7 @@
 
 .pub-title {
   font-weight: 550;
-  font-size: 18px;
+  font-size: 16px;
   margin: 6px 0;
 }
 
@@ -37,11 +37,16 @@
 
 .pub-links a {
   display: inline-block;
-  border: 1px solid #333;
-  padding: 6px 12px;
+  border: 1px solid #444;
+  padding: 6px 12px;      /* 原来更大 */
   margin-right: 10px;
   border-radius: 6px;
   text-decoration: none;
-  color: #000;
-  font-size: 14px;
+  color: #222;
+  font-size: 14px;        /* 原来更大 */
+  transition: all 0.2s ease;
+}
+
+.pub-links a:hover {
+  background-color: #f3f3f3;
 }
