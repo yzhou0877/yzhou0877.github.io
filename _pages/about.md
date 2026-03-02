@@ -44,13 +44,55 @@ redirect_from:
     </div>
 
     <div class="pub-venue">
-      EMNLP 2025 (Industry)
+      EMNLP 2025 Industry
     </div>
 
     <div class="pub-links">
       <a href="https://aclanthology.org/2025.emnlp-industry.79.pdf">PDF</a>
-      <a href="#">Bib</a>
       <a href="#">Slides</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <img src="/images/udecoder.png" class="pub-img">
+
+  <div class="pub-content">
+    <div class="pub-title">
+      Unified Contextual Query Rewriting
+    </div>
+
+    <div class="pub-authors">
+      <strong>Yingxue Zhou</strong>, Jie Hao, Mukund Rungta, Yang Liu, Eunah Cho, et al.
+    </div>
+
+    <div class="pub-venue">
+      ACL 2023 Industry
+    </div>
+
+    <div class="pub-links">
+      <a href="https://aclanthology.org/2023.acl-industry.58.pdf">PDF</a>
+      <a href="#">Slides</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-item">
+  <img src="/images/dpo.png" class="pub-img">
+
+  <div class="pub-content">
+    <div class="pub-title">
+      Improving Contextual Query Rewrite for Conversational AI Agents through User-preference Feedback Learning
+    </div>
+    <div class="pub-authors">
+      Zhongkai Sun, <strong>Yingxue Zhou</strong>, Jie Hao, Xing Fan, Yanbin Lu, et al.
+    </div>
+    <div class="pub-venue">
+      EMNLP 2023 Industry
+    </div>
+
+    <div class="pub-links">
+      <a href="https://aclanthology.org/2023.emnlp-industry.41.pdf">PDF</a>
     </div>
   </div>
 </div>
@@ -63,18 +105,14 @@ redirect_from:
     <div class="pub-title">
       RecMind: Large Language Model Powered Agent for Recommendation
     </div>
-
     <div class="pub-authors">
       Yancheng Wang, Ziyan Jiang, Zheng Chen, Fan Yang, <strong>Yingxue Zhou</strong>, et al.
     </div>
-
     <div class="pub-venue">
       NAACL 2024 Findings
     </div>
-
     <div class="pub-links">
       <a href="https://aclanthology.org/2024.findings-naacl.271.pdf">PDF</a>
-      <a href="#">Bib</a>
     </div>
   </div>
 </div>
@@ -98,7 +136,8 @@ redirect_from:
 
     <div class="pub-links">
       <a href="https://openreview.net/pdf?id=7dpmlkBuJFC">PDF</a>
-      <a href="#">Bib</a>
+      <a href="https://github.com/yzhou0877/private-sgd-with-subspace-identification">Code</a>
+      <a href="#">Slides</a>
     </div>
   </div>
 </div>
