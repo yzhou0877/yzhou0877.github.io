@@ -28,20 +28,27 @@ redirect_from:
 - *2023.12*: Paper on **Conversational Query Rewrite with Feedback Learning** accepted to EMNLP 2023.
 - *2023.07*: Paper on **Unified Contextual Query Rewriting** accepted to ACL 2023.
 
----
+
 # 📚 Selected Publication
+# 📚 Selected Publications
+
+
 <div class="pub-item">
   <img src="/images/coa.png" class="pub-img">
+
   <div class="pub-content">
     <div class="pub-title">
       Learning from LLM Agents: In-Context Generative Models for Text Casing in E-Commerce Ads
     </div>
+
     <div class="pub-authors">
       <strong>Yingxue Zhou</strong>, Tan Zhu, Tao Zeng, Zigeng Wang, Wei Shen
     </div>
+
     <div class="pub-venue">
-      EMNLP 2025 Industry
+      EMNLP 2025 (Industry)
     </div>
+
     <div class="pub-links">
       <a href="https://aclanthology.org/2025.emnlp-industry.79.pdf">PDF</a>
       <a href="#">Bib</a>
@@ -50,18 +57,23 @@ redirect_from:
   </div>
 </div>
 
+
 <div class="pub-item">
   <img src="/images/recmind.png" class="pub-img">
+
   <div class="pub-content">
     <div class="pub-title">
       RecMind: Large Language Model Powered Agent for Recommendation
     </div>
+
     <div class="pub-authors">
       Yancheng Wang, Ziyan Jiang, Zheng Chen, Fan Yang, <strong>Yingxue Zhou</strong>, et al.
     </div>
+
     <div class="pub-venue">
       NAACL 2024 Findings
     </div>
+
     <div class="pub-links">
       <a href="https://aclanthology.org/2024.findings-naacl.271.pdf">PDF</a>
       <a href="#">Bib</a>
@@ -69,18 +81,23 @@ redirect_from:
   </div>
 </div>
 
+
 <div class="pub-item">
   <img src="/images/dpsgd.png" class="pub-img">
+
   <div class="pub-content">
     <div class="pub-title">
       Bypassing the Ambient Dimension: Private SGD with Gradient Subspace Identification
     </div>
+
     <div class="pub-authors">
       <strong>Yingxue Zhou</strong>, Steven Wu, Arindam Banerjee
     </div>
+
     <div class="pub-venue">
       ICLR 2021
     </div>
+
     <div class="pub-links">
       <a href="https://openreview.net/pdf?id=7dpmlkBuJFC">PDF</a>
       <a href="#">Bib</a>
