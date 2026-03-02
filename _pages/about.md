@@ -20,6 +20,7 @@ redirect_from:
 
 🎓 I received my Ph.D. in Computer Science from the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), where I was advised by [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/) and worked closely with [Prof. Steven Wu](https://zstevenwu.com/). My doctoral research focused on optimization and privacy-preserving machine learning, developing training algorithms that improve neural network generalization while preserving data privacy. I received my B.Sc. in Electronic Information and Communications from Huazhong University of Science and Technology.
 
+<span id="news"></span>
 # 🔥 News
 - *2026.02*: Co-organizing the **Embodied AI Workshop ([WDFM-EAI](https://lnkd.in/gdipcH4V))** at CVPR 2026.
 - *2025.11*: Paper on **LLM Agents for E-Commerce Ad Generation** accepted to EMNLP 2025.
@@ -28,7 +29,7 @@ redirect_from:
 - *2023.12*: Paper on **Conversational Query Rewrite with Feedback Learning** accepted to EMNLP 2023.
 - *2023.07*: Paper on **Unified Contextual Query Rewriting** accepted to ACL 2023.
 
-
+<span id="publications"></span>
 # 📚 Selected Publications
 
 <div class="pub-item">
@@ -164,7 +165,7 @@ redirect_from:
   </div>
 </div>
 
-
+<span id="services"></span>
 # 📋 Services
 
 <ul>
