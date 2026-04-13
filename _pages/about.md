@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-👩‍💻 I am a Staff Applied Scientist at [Walmart Labs](https://tech.walmart.com/content/walmart-global-tech/en_us.html), leading GenAI research for content generation in advertising and retail. Previously, I was an Applied Scientist at [Amazon](https://www.amazon.science/). My work focuses on Retrieval-Augmented Generation (RAG), supervised fine-tuning (SFT), reinforcement learning (RL) post-training, and scalable LLM agent system design.  I am passionate about translating cutting-edge research in large-scale modeling into production-ready AI systems.
+👩‍💻 I am a Research Scientist at Apple. My work focuses on supervised fine-tuning (SFT), reinforcement learning (RL) post-training, and scalable LLM agent system design.  I am passionate about translating cutting-edge research in large-scale modeling into production-ready AI systems.
 
-🎓 I received my Ph.D. in Computer Science from the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), where I was advised by [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/) and worked closely with [Prof. Steven Wu](https://zstevenwu.com/). My doctoral research focused on machine learning foundations, developing training algorithms that improve neural network generalization while preserving data privacy. I received my B.Sc. in Electronic Information and Communications from Huazhong University of Science and Technology.
+🎓 I received my Ph.D. in Computer Science from the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/), where I was advised by [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/) and worked closely with [Prof. Steven Wu](https://zstevenwu.com/). My doctoral research focused on machine learning foundations, developing training algorithms that improve neural network generalization while preserving data privacy. I received my B.Sc. in Electronic Information and Communications from [Huazhong University of Science and Technology](https://english.hust.edu.cn/).
 
 <span id="news"></span>
 # 🔥 News
